@@ -2,6 +2,7 @@ HEART Testing
 =============
 
 .. image:: screenshot2.png
+    :width: 50%
 
 What's this about?
 ------------------
