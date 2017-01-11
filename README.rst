@@ -63,7 +63,7 @@ JSON Web Key Set (public key): /jwk
 
 ::
 
-    ~/Developer/aclarknet/openid-heart-testing   master  curl https://llw.aclark.net/jwk | jq   
+    $ curl https://llw.aclark.net/jwk | jq   
       % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                      Dload  Upload   Total   Spent    Left  Speed
     100   411  100   411    0     0   1138      0 --:--:-- --:--:-- --:--:--  1141

@@ -1,7 +1,7 @@
 %PDF-1.4
 %“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
 1 0 obj
-<< /F1 2 0 R /F2 3 0 R /F3 14 0 R /F4 15 0 R >>
+<< /F1 2 0 R /F2 3 0 R /F3 14 0 R >>
 endobj
 2 0 obj
 << /BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font >>
@@ -34,7 +34,7 @@ endobj
 << /A << /S /URI /Type /Action /URI (https://github.com/mitreid-connect/OpenID-Connect-Java-Spring-Server/wiki/Server-configuration#endpoints) >> /Border [ 0 0 0 ] /Rect [ 62.69291 241.0347 133.2929 253.0347 ] /Subtype /Link /Type /Annot >>
 endobj
 10 0 obj
-<< /Annots [ 6 0 R 7 0 R 8 0 R 9 0 R ] /Contents 37 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 36 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /XObject << /FormXob.5d9cedc1b7b964320731ab20a7dad0ce 4 0 R >> >> /Rotate 0 
+<< /Annots [ 6 0 R 7 0 R 8 0 R 9 0 R ] /Contents 36 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 35 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /XObject << /FormXob.5d9cedc1b7b964320731ab20a7dad0ce 4 0 R >> >> /Rotate 0 
   /Trans <<  >> /Type /Page >>
 endobj
 11 0 obj
@@ -56,79 +56,76 @@ endobj
 << /BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font >>
 endobj
 15 0 obj
-<< /BaseFont /ZapfDingbats /Encoding /ZapfDingbatsEncoding /Name /F4 /Subtype /Type1 /Type /Font >>
-endobj
-16 0 obj
-<< /Annots [ 11 0 R ] /Contents 38 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 36 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /XObject << /FormXob.d8938d631d4f593169babdfd892f3f2e 12 0 R >> >> /Rotate 0 
+<< /Annots [ 11 0 R ] /Contents 37 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 35 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /XObject << /FormXob.d8938d631d4f593169babdfd892f3f2e 12 0 R >> >> /Rotate 0 
   /Trans <<  >> /Type /Page >>
 endobj
+16 0 obj
+<< /Contents 38 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 35 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+  /Type /Page >>
+endobj
 17 0 obj
-<< /Contents 39 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 36 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+<< /Contents 39 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 35 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
   /Type /Page >>
 endobj
 18 0 obj
-<< /Contents 40 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 36 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+<< /Contents 40 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 35 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
   /Type /Page >>
 endobj
 19 0 obj
-<< /Contents 41 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 36 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+<< /Contents 41 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 35 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
   /Type /Page >>
 endobj
 20 0 obj
-<< /Contents 42 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 36 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
-  /Type /Page >>
+<< /Outlines 22 0 R /PageLabels 42 0 R /PageMode /UseNone /Pages 35 0 R /Type /Catalog >>
 endobj
 21 0 obj
-<< /Outlines 23 0 R /PageLabels 43 0 R /PageMode /UseNone /Pages 36 0 R /Type /Catalog >>
-endobj
-22 0 obj
-<< /Author () /CreationDate (D:20170111103159+05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20170111103159+05'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+<< /Author () /CreationDate (D:20170111103221+05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20170111103221+05'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title (HEART Testing) /Trapped /False >>
 endobj
+22 0 obj
+<< /Count 13 /First 23 0 R /Last 27 0 R /Type /Outlines >>
+endobj
 23 0 obj
-<< /Count 13 /First 24 0 R /Last 28 0 R /Type /Outlines >>
+<< /Dest [ 10 0 R /XYZ 62.69291 520.0347 0 ] /Next 24 0 R /Parent 22 0 R /Title (What's this about?) >>
 endobj
 24 0 obj
-<< /Dest [ 10 0 R /XYZ 62.69291 520.0347 0 ] /Next 25 0 R /Parent 23 0 R /Title (What's this about?) >>
+<< /Dest [ 10 0 R /XYZ 62.69291 415.0347 0 ] /Next 25 0 R /Parent 22 0 R /Prev 23 0 R /Title (Reference implementation) >>
 endobj
 25 0 obj
-<< /Dest [ 10 0 R /XYZ 62.69291 415.0347 0 ] /Next 26 0 R /Parent 23 0 R /Prev 24 0 R /Title (Reference implementation) >>
+<< /Dest [ 10 0 R /XYZ 62.69291 292.0347 0 ] /Next 26 0 R /Parent 22 0 R /Prev 24 0 R /Title (Endpoints) >>
 endobj
 26 0 obj
-<< /Dest [ 10 0 R /XYZ 62.69291 292.0347 0 ] /Next 27 0 R /Parent 23 0 R /Prev 25 0 R /Title (Endpoints) >>
+<< /Dest [ 15 0 R /XYZ 62.69291 765.0236 0 ] /Next 27 0 R /Parent 22 0 R /Prev 25 0 R /Title (SSL) >>
 endobj
 27 0 obj
-<< /Dest [ 16 0 R /XYZ 62.69291 765.0236 0 ] /Next 28 0 R /Parent 23 0 R /Prev 26 0 R /Title (SSL) >>
-endobj
-28 0 obj
-<< /Count 7 /Dest [ 16 0 R /XYZ 62.69291 541.2265 0 ] /First 29 0 R /Last 35 0 R /Parent 23 0 R /Prev 27 0 R 
+<< /Count 7 /Dest [ 15 0 R /XYZ 62.69291 541.2265 0 ] /First 28 0 R /Last 34 0 R /Parent 22 0 R /Prev 26 0 R 
   /Title (Testing) >>
 endobj
+28 0 obj
+<< /Dest [ 15 0 R /XYZ 62.69291 490.2265 0 ] /Next 29 0 R /Parent 27 0 R /Title (Authorization endpoint: /authorize) >>
+endobj
 29 0 obj
-<< /Dest [ 16 0 R /XYZ 62.69291 490.2265 0 ] /Next 30 0 R /Parent 28 0 R /Title (Authorization endpoint: /authorize) >>
+<< /Dest [ 15 0 R /XYZ 62.69291 460.2265 0 ] /Next 30 0 R /Parent 27 0 R /Prev 28 0 R /Title (Token endpoint: /token) >>
 endobj
 30 0 obj
-<< /Dest [ 16 0 R /XYZ 62.69291 460.2265 0 ] /Next 31 0 R /Parent 28 0 R /Prev 29 0 R /Title (Token endpoint: /token) >>
+<< /Dest [ 15 0 R /XYZ 62.69291 430.2265 0 ] /Next 31 0 R /Parent 27 0 R /Prev 29 0 R /Title (Token introspection: /introspect) >>
 endobj
 31 0 obj
-<< /Dest [ 16 0 R /XYZ 62.69291 430.2265 0 ] /Next 32 0 R /Parent 28 0 R /Prev 30 0 R /Title (Token introspection: /introspect) >>
+<< /Dest [ 15 0 R /XYZ 62.69291 400.2265 0 ] /Next 32 0 R /Parent 27 0 R /Prev 30 0 R /Title (Token revocation: /revoke) >>
 endobj
 32 0 obj
-<< /Dest [ 16 0 R /XYZ 62.69291 400.2265 0 ] /Next 33 0 R /Parent 28 0 R /Prev 31 0 R /Title (Token revocation: /revoke) >>
+<< /Dest [ 15 0 R /XYZ 62.69291 370.2265 0 ] /Next 33 0 R /Parent 27 0 R /Prev 31 0 R /Title (JSON Web Key Set \(public key\): /jwk) >>
 endobj
 33 0 obj
-<< /Dest [ 16 0 R /XYZ 62.69291 370.2265 0 ] /Next 34 0 R /Parent 28 0 R /Prev 32 0 R /Title (JSON Web Key Set \(public key\): /jwk) >>
+<< /Dest [ 16 0 R /XYZ 62.69291 765.0236 0 ] /Next 34 0 R /Parent 27 0 R /Prev 32 0 R /Title (User info: /userinfo) >>
 endobj
 34 0 obj
-<< /Dest [ 17 0 R /XYZ 62.69291 765.0236 0 ] /Next 35 0 R /Parent 28 0 R /Prev 33 0 R /Title (User info: /userinfo) >>
+<< /Dest [ 16 0 R /XYZ 62.69291 735.0236 0 ] /Parent 27 0 R /Prev 33 0 R /Title (Provider configuration: /.well-known/openid-configuration) >>
 endobj
 35 0 obj
-<< /Dest [ 17 0 R /XYZ 62.69291 735.0236 0 ] /Parent 28 0 R /Prev 34 0 R /Title (Provider configuration: /.well-known/openid-configuration) >>
+<< /Count 6 /Kids [ 10 0 R 15 0 R 16 0 R 17 0 R 18 0 R 19 0 R ] /Type /Pages >>
 endobj
 36 0 obj
-<< /Count 6 /Kids [ 10 0 R 16 0 R 17 0 R 18 0 R 19 0 R 20 0 R ] /Type /Pages >>
-endobj
-37 0 obj
 << /Length 5250 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -422,8 +419,8 @@ Q
  
 endstream
 endobj
-38 0 obj
-<< /Length 2680 >>
+37 0 obj
+<< /Length 2494 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -503,7 +500,7 @@ n -6 -6 2142 192 re B*
 Q
 q
 0 0 0 rg
-BT 1 0 0 1 0 170 Tm /F3 10 Tf 12 TL (~/Developer/aclarknet/openid-heart-testing ) Tj /F4 10 Tf 12 TL (n) Tj /F3 10 Tf 12 TL ( ) Tj /F4 10 Tf 12 TL (n) Tj /F3 10 Tf 12 TL ( master ) Tj /F4 10 Tf 12 TL (n) Tj /F3 10 Tf 12 TL ( curl https://llw.aclark.net/jwk | jq) Tj T* (  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current) Tj T* (                                 Dload  Upload   Total   Spent    Left  Speed) Tj T* (100   411  100   411    0     0   1138      0 --:--:-- --:--:-- --:--:--  1141) Tj T* ({) Tj T* (  "keys": [) Tj T* (    {) Tj T* (      "kty": "RSA",) Tj T* (      "e": "AQAB",) Tj T* (      "kid": "rsa1",) Tj T* (      "alg": "RS256",) Tj T* (      "n": "qt6yOiI_wCoCVlGO0MySsez0VkSqhPvDl3rfabOslx35mYEO-n4ABfIT5Gn2zN-CeIcOZ5ugAXvIIRWv5H55-tzjFazi5IKkOIMCiz5__MtsdxKCqGlZu2zt-BLpqTOAPiflNPpM3RUAlxKAhnYEqNha6-allPnFQupnW_eTYoyuzuedT7dSp90ry0ZcQDimntXWeaSbrYKCj9Rr9W1jn2uTowUuXaScKXTCjAmJVnsD75JNzQfa8DweklTyWQF-Y5Ky039I0VIu-0CIGhXY48GAFe2EFb8VpNhf07DP63p138RWQ1d3KPEM9mYJVpQC68j3wzDQYSljpLf9by7TGw") Tj T* (    }) Tj T* (  ]) Tj T* (}) Tj T* ET
+BT 1 0 0 1 0 170 Tm /F3 10 Tf 12 TL ($ curl https://llw.aclark.net/jwk | jq) Tj T* (  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current) Tj T* (                                 Dload  Upload   Total   Spent    Left  Speed) Tj T* (100   411  100   411    0     0   1138      0 --:--:-- --:--:-- --:--:--  1141) Tj T* ({) Tj T* (  "keys": [) Tj T* (    {) Tj T* (      "kty": "RSA",) Tj T* (      "e": "AQAB",) Tj T* (      "kid": "rsa1",) Tj T* (      "alg": "RS256",) Tj T* (      "n": "qt6yOiI_wCoCVlGO0MySsez0VkSqhPvDl3rfabOslx35mYEO-n4ABfIT5Gn2zN-CeIcOZ5ugAXvIIRWv5H55-tzjFazi5IKkOIMCiz5__MtsdxKCqGlZu2zt-BLpqTOAPiflNPpM3RUAlxKAhnYEqNha6-allPnFQupnW_eTYoyuzuedT7dSp90ry0ZcQDimntXWeaSbrYKCj9Rr9W1jn2uTowUuXaScKXTCjAmJVnsD75JNzQfa8DweklTyWQF-Y5Ky039I0VIu-0CIGhXY48GAFe2EFb8VpNhf07DP63p138RWQ1d3KPEM9mYJVpQC68j3wzDQYSljpLf9by7TGw") Tj T* (    }) Tj T* (  ]) Tj T* (}) Tj T* ET
 Q
 Q
 Q
@@ -512,7 +509,7 @@ Q
  
 endstream
 endobj
-39 0 obj
+38 0 obj
 << /Length 2364 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -552,7 +549,7 @@ Q
  
 endstream
 endobj
-40 0 obj
+39 0 obj
 << /Length 1772 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -580,7 +577,7 @@ Q
  
 endstream
 endobj
-41 0 obj
+40 0 obj
 << /Length 1972 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -608,7 +605,7 @@ Q
  
 endstream
 endobj
-42 0 obj
+41 0 obj
 << /Length 707 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -636,85 +633,84 @@ Q
  
 endstream
 endobj
-43 0 obj
-<< /Nums [ 0 44 0 R 1 45 0 R 2 46 0 R 3 47 0 R 4 48 0 R 
-  5 49 0 R ] >>
+42 0 obj
+<< /Nums [ 0 43 0 R 1 44 0 R 2 45 0 R 3 46 0 R 4 47 0 R 
+  5 48 0 R ] >>
 endobj
-44 0 obj
+43 0 obj
 << /S /D /St 1 >>
 endobj
-45 0 obj
+44 0 obj
 << /S /D /St 2 >>
 endobj
-46 0 obj
+45 0 obj
 << /S /D /St 3 >>
 endobj
-47 0 obj
+46 0 obj
 << /S /D /St 4 >>
 endobj
-48 0 obj
+47 0 obj
 << /S /D /St 5 >>
 endobj
-49 0 obj
+48 0 obj
 << /S /D /St 6 >>
 endobj
 xref
-0 50
+0 49
 0000000000 65535 f
 0000000075 00000 n
-0000000141 00000 n
-0000000251 00000 n
-0000000366 00000 n
-0000282758 00000 n
-0000283754 00000 n
-0000283936 00000 n
-0000284135 00000 n
-0000284394 00000 n
-0000284653 00000 n
-0000284962 00000 n
-0000285141 00000 n
-0000492459 00000 n
-0000493212 00000 n
-0000493321 00000 n
-0000493440 00000 n
-0000493733 00000 n
-0000493943 00000 n
-0000494153 00000 n
-0000494363 00000 n
-0000494573 00000 n
-0000494682 00000 n
-0000494957 00000 n
-0000495035 00000 n
-0000495158 00000 n
-0000495300 00000 n
-0000495427 00000 n
-0000495548 00000 n
-0000495700 00000 n
-0000495839 00000 n
-0000495979 00000 n
-0000496129 00000 n
-0000496272 00000 n
-0000496427 00000 n
-0000496565 00000 n
-0000496727 00000 n
-0000496826 00000 n
-0000502133 00000 n
-0000504870 00000 n
-0000507291 00000 n
-0000509120 00000 n
-0000511149 00000 n
-0000511912 00000 n
-0000512005 00000 n
-0000512042 00000 n
-0000512079 00000 n
-0000512116 00000 n
-0000512153 00000 n
-0000512190 00000 n
+0000000130 00000 n
+0000000240 00000 n
+0000000355 00000 n
+0000282747 00000 n
+0000283743 00000 n
+0000283925 00000 n
+0000284124 00000 n
+0000284383 00000 n
+0000284642 00000 n
+0000284951 00000 n
+0000285130 00000 n
+0000492448 00000 n
+0000493201 00000 n
+0000493310 00000 n
+0000493603 00000 n
+0000493813 00000 n
+0000494023 00000 n
+0000494233 00000 n
+0000494443 00000 n
+0000494552 00000 n
+0000494827 00000 n
+0000494905 00000 n
+0000495028 00000 n
+0000495170 00000 n
+0000495297 00000 n
+0000495418 00000 n
+0000495570 00000 n
+0000495709 00000 n
+0000495849 00000 n
+0000495999 00000 n
+0000496142 00000 n
+0000496297 00000 n
+0000496435 00000 n
+0000496597 00000 n
+0000496696 00000 n
+0000502003 00000 n
+0000504554 00000 n
+0000506975 00000 n
+0000508804 00000 n
+0000510833 00000 n
+0000511596 00000 n
+0000511689 00000 n
+0000511726 00000 n
+0000511763 00000 n
+0000511800 00000 n
+0000511837 00000 n
+0000511874 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com)
- [(\021\243\223+|\206!\356\306\277\\\036\221!\221<) (\021\243\223+|\206!\356\306\277\\\036\221!\221<)]
- /Info 22 0 R /Root 21 0 R /Size 50 >>
+ [(\020\002Afb\011\020i\372\356\244\311\222\035\233$) (\020\002Afb\011\020i\372\356\244\311\222\035\233$)]
+ /Info 21 0 R /Root 20 0 R /Size 49 >>
 startxref
-512227
+511911
 %%EOF
