@@ -39,6 +39,7 @@ SSL
 As SSL is a requirement, we have configured a free certificate from `Let's Encrypt <https://letsencrypt.org>`_
 
 .. image:: screenshot.png
+    :width: 50%
 
 Testing
 -------

@@ -75,7 +75,7 @@ endobj
 << /Outlines 21 0 R /PageLabels 33 0 R /PageMode /UseNone /Pages 27 0 R /Type /Catalog >>
 endobj
 20 0 obj
-<< /Author () /CreationDate (D:20170111102653+05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20170111102653+05'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+<< /Author () /CreationDate (D:20170111102727+05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20170111102727+05'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title (HEART Testing) /Trapped /False >>
 endobj
 21 0 obj
@@ -94,7 +94,7 @@ endobj
 << /Dest [ 15 0 R /XYZ 62.69291 765.0236 0 ] /Next 26 0 R /Parent 21 0 R /Prev 24 0 R /Title (SSL) >>
 endobj
 26 0 obj
-<< /Dest [ 15 0 R /XYZ 62.69291 374.4294 0 ] /Parent 21 0 R /Prev 25 0 R /Title (Testing) >>
+<< /Dest [ 15 0 R /XYZ 62.69291 541.2265 0 ] /Parent 21 0 R /Prev 25 0 R /Title (Testing) >>
 endobj
 27 0 obj
 << /Count 5 /Kids [ 10 0 R 15 0 R 16 0 R 17 0 R 18 0 R ] /Type /Pages >>
@@ -394,7 +394,7 @@ Q
 endstream
 endobj
 29 0 obj
-<< /Length 1817 >>
+<< /Length 2196 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -410,27 +410,27 @@ BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (As SSL is a requirement, we have con
 Q
 Q
 q
-1 0 0 1 62.69291 386.4294 cm
+1 0 0 1 180.1654 553.2265 cm
 q
-469.8898 0 0 333.5943 0 0 cm
+234.9449 0 0 166.7971 0 0 cm
 /FormXob.d8938d631d4f593169babdfd892f3f2e Do
 Q
 Q
 q
-1 0 0 1 62.69291 353.4294 cm
+1 0 0 1 62.69291 520.2265 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Testing) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 335.4294 cm
+1 0 0 1 62.69291 502.2265 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Here we confirm our MITREid-Connect server offers the specified endpoints:) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 86.22937 cm
+1 0 0 1 62.69291 85.0265 cm
 q
 q
 1 0 0 1 0 0 cm
@@ -440,11 +440,11 @@ q
 .662745 .662745 .662745 RG
 .5 w
 .960784 .960784 .862745 rg
-n -6 -6 486 240 re B*
+n -6 -6 486 408 re B*
 Q
 q
 0 0 0 rg
-BT 1 0 0 1 0 218 Tm /F3 10 Tf 12 TL ($ curl https://llw.aclark.net/.well-known/openid-configuration | jq) Tj T* (  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current) Tj T* (                                 Dload  Upload   Total   Spent    Left  Speed) Tj T* (100  2829  100  2829    0     0   2540      0  0:00:01  0:00:01 --:--:--  2541) Tj T* ({) Tj T* (  "request_parameter_supported": true,) Tj T* (  "claims_parameter_supported": false,) Tj T* (  "introspection_endpoint": "https://llw.aclark.net/introspect",) Tj T* (  "scopes_supported": [) Tj T* (    "openid",) Tj T* (    "profile",) Tj T* (    "email",) Tj T* (    "address",) Tj T* (    "phone",) Tj T* (    "offline_access") Tj T* (  ],) Tj T* (  "issuer": "https://llw.aclark.net/",) Tj T* (  "userinfo_encryption_enc_values_supported": [) Tj T* (    "A256CBC+HS512",) Tj T* ET
+BT 1 0 0 1 0 386 Tm /F3 10 Tf 12 TL ($ curl https://llw.aclark.net/.well-known/openid-configuration | jq) Tj T* (  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current) Tj T* (                                 Dload  Upload   Total   Spent    Left  Speed) Tj T* (100  2829  100  2829    0     0   2540      0  0:00:01  0:00:01 --:--:--  2541) Tj T* ({) Tj T* (  "request_parameter_supported": true,) Tj T* (  "claims_parameter_supported": false,) Tj T* (  "introspection_endpoint": "https://llw.aclark.net/introspect",) Tj T* (  "scopes_supported": [) Tj T* (    "openid",) Tj T* (    "profile",) Tj T* (    "email",) Tj T* (    "address",) Tj T* (    "phone",) Tj T* (    "offline_access") Tj T* (  ],) Tj T* (  "issuer": "https://llw.aclark.net/",) Tj T* (  "userinfo_encryption_enc_values_supported": [) Tj T* (    "A256CBC+HS512",) Tj T* (    "A256GCM",) Tj T* (    "A192GCM",) Tj T* (    "A128GCM",) Tj T* (    "A128CBC-HS256",) Tj T* (    "A192CBC-HS384",) Tj T* (    "A256CBC-HS512",) Tj T* (    "A128CBC+HS256") Tj T* (  ],) Tj T* (  "id_token_encryption_enc_values_supported": [) Tj T* (    "A256CBC+HS512",) Tj T* (    "A256GCM",) Tj T* (    "A192GCM",) Tj T* (    "A128GCM",) Tj T* (    "A128CBC-HS256",) Tj T* ET
 Q
 Q
 Q
@@ -454,7 +454,7 @@ Q
 endstream
 endobj
 30 0 obj
-<< /Length 1809 >>
+<< /Length 1807 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -472,7 +472,7 @@ n -6 -6 468.6898 684 re B*
 Q
 q
 0 0 0 rg
-BT 1 0 0 1 0 662 Tm /F3 10 Tf 12 TL (    "A256GCM",) Tj T* (    "A192GCM",) Tj T* (    "A128GCM",) Tj T* (    "A128CBC-HS256",) Tj T* (    "A192CBC-HS384",) Tj T* (    "A256CBC-HS512",) Tj T* (    "A128CBC+HS256") Tj T* (  ],) Tj T* (  "id_token_encryption_enc_values_supported": [) Tj T* (    "A256CBC+HS512",) Tj T* (    "A256GCM",) Tj T* (    "A192GCM",) Tj T* (    "A128GCM",) Tj T* (    "A128CBC-HS256",) Tj T* (    "A192CBC-HS384",) Tj T* (    "A256CBC-HS512",) Tj T* (    "A128CBC+HS256") Tj T* (  ],) Tj T* (  "authorization_endpoint": "https://llw.aclark.net/authorize",) Tj T* (  "service_documentation": "https://llw.aclark.net/about",) Tj T* (  "request_object_encryption_enc_values_supported": [) Tj T* (    "A256CBC+HS512",) Tj T* (    "A256GCM",) Tj T* (    "A192GCM",) Tj T* (    "A128GCM",) Tj T* (    "A128CBC-HS256",) Tj T* (    "A192CBC-HS384",) Tj T* (    "A256CBC-HS512",) Tj T* (    "A128CBC+HS256") Tj T* (  ],) Tj T* (  "userinfo_signing_alg_values_supported": [) Tj T* (    "HS256",) Tj T* (    "HS384",) Tj T* (    "HS512",) Tj T* (    "RS256",) Tj T* (    "RS384",) Tj T* (    "RS512",) Tj T* (    "ES256",) Tj T* (    "ES384",) Tj T* (    "ES512",) Tj T* (    "PS256",) Tj T* (    "PS384",) Tj T* (    "PS512") Tj T* (  ],) Tj T* (  "claims_supported": [) Tj T* (    "sub",) Tj T* (    "name",) Tj T* (    "preferred_username",) Tj T* (    "given_name",) Tj T* (    "family_name",) Tj T* (    "middle_name",) Tj T* (    "nickname",) Tj T* (    "profile",) Tj T* (    "picture",) Tj T* (    "website",) Tj T* (    "gender",) Tj T* ET
+BT 1 0 0 1 0 662 Tm /F3 10 Tf 12 TL (    "A192CBC-HS384",) Tj T* (    "A256CBC-HS512",) Tj T* (    "A128CBC+HS256") Tj T* (  ],) Tj T* (  "authorization_endpoint": "https://llw.aclark.net/authorize",) Tj T* (  "service_documentation": "https://llw.aclark.net/about",) Tj T* (  "request_object_encryption_enc_values_supported": [) Tj T* (    "A256CBC+HS512",) Tj T* (    "A256GCM",) Tj T* (    "A192GCM",) Tj T* (    "A128GCM",) Tj T* (    "A128CBC-HS256",) Tj T* (    "A192CBC-HS384",) Tj T* (    "A256CBC-HS512",) Tj T* (    "A128CBC+HS256") Tj T* (  ],) Tj T* (  "userinfo_signing_alg_values_supported": [) Tj T* (    "HS256",) Tj T* (    "HS384",) Tj T* (    "HS512",) Tj T* (    "RS256",) Tj T* (    "RS384",) Tj T* (    "RS512",) Tj T* (    "ES256",) Tj T* (    "ES384",) Tj T* (    "ES512",) Tj T* (    "PS256",) Tj T* (    "PS384",) Tj T* (    "PS512") Tj T* (  ],) Tj T* (  "claims_supported": [) Tj T* (    "sub",) Tj T* (    "name",) Tj T* (    "preferred_username",) Tj T* (    "given_name",) Tj T* (    "family_name",) Tj T* (    "middle_name",) Tj T* (    "nickname",) Tj T* (    "profile",) Tj T* (    "picture",) Tj T* (    "website",) Tj T* (    "gender",) Tj T* (    "zoneinfo",) Tj T* (    "locale",) Tj T* (    "updated_at",) Tj T* (    "birthdate",) Tj T* (    "email",) Tj T* (    "email_verified",) Tj T* (    "phone_number",) Tj T* (    "phone_number_verified",) Tj T* (    "address") Tj T* (  ],) Tj T* (  "claim_types_supported": [) Tj T* (    "normal") Tj T* (  ],) Tj T* (  "op_policy_uri": "https://llw.aclark.net/about",) Tj T* ET
 Q
 Q
 Q
@@ -482,7 +482,7 @@ Q
 endstream
 endobj
 31 0 obj
-<< /Length 2004 >>
+<< /Length 2058 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -500,7 +500,7 @@ n -6 -6 468.6898 684 re B*
 Q
 q
 0 0 0 rg
-BT 1 0 0 1 0 662 Tm /F3 10 Tf 12 TL (    "zoneinfo",) Tj T* (    "locale",) Tj T* (    "updated_at",) Tj T* (    "birthdate",) Tj T* (    "email",) Tj T* (    "email_verified",) Tj T* (    "phone_number",) Tj T* (    "phone_number_verified",) Tj T* (    "address") Tj T* (  ],) Tj T* (  "claim_types_supported": [) Tj T* (    "normal") Tj T* (  ],) Tj T* (  "op_policy_uri": "https://llw.aclark.net/about",) Tj T* (  "token_endpoint_auth_methods_supported": [) Tj T* (    "client_secret_post",) Tj T* (    "client_secret_basic",) Tj T* (    "client_secret_jwt",) Tj T* (    "private_key_jwt",) Tj T* (    "none") Tj T* (  ],) Tj T* (  "token_endpoint": "https://llw.aclark.net/token",) Tj T* (  "response_types_supported": [) Tj T* (    "code",) Tj T* (    "token") Tj T* (  ],) Tj T* (  "request_uri_parameter_supported": false,) Tj T* (  "userinfo_encryption_alg_values_supported": [) Tj T* (    "RSA-OAEP",) Tj T* (    "RSA-OAEP-256",) Tj T* (    "RSA1_5") Tj T* (  ],) Tj T* (  "grant_types_supported": [) Tj T* (    "authorization_code",) Tj T* (    "implicit",) Tj T* (    "urn:ietf:params:oauth:grant-type:jwt-bearer",) Tj T* (    "client_credentials",) Tj T* (    "urn:ietf:params:oauth:grant_type:redelegate") Tj T* (  ],) Tj T* (  "revocation_endpoint": "https://llw.aclark.net/revoke",) Tj T* (  "userinfo_endpoint": "https://llw.aclark.net/userinfo",) Tj T* (  "token_endpoint_auth_signing_alg_values_supported": [) Tj T* (    "HS256",) Tj T* (    "HS384",) Tj T* (    "HS512",) Tj T* (    "RS256",) Tj T* (    "RS384",) Tj T* (    "RS512",) Tj T* (    "ES256",) Tj T* (    "ES384",) Tj T* (    "ES512",) Tj T* (    "PS256",) Tj T* (    "PS384",) Tj T* (    "PS512") Tj T* (  ],) Tj T* (  "op_tos_uri": "https://llw.aclark.net/about",) Tj T* ET
+BT 1 0 0 1 0 662 Tm /F3 10 Tf 12 TL (  "token_endpoint_auth_methods_supported": [) Tj T* (    "client_secret_post",) Tj T* (    "client_secret_basic",) Tj T* (    "client_secret_jwt",) Tj T* (    "private_key_jwt",) Tj T* (    "none") Tj T* (  ],) Tj T* (  "token_endpoint": "https://llw.aclark.net/token",) Tj T* (  "response_types_supported": [) Tj T* (    "code",) Tj T* (    "token") Tj T* (  ],) Tj T* (  "request_uri_parameter_supported": false,) Tj T* (  "userinfo_encryption_alg_values_supported": [) Tj T* (    "RSA-OAEP",) Tj T* (    "RSA-OAEP-256",) Tj T* (    "RSA1_5") Tj T* (  ],) Tj T* (  "grant_types_supported": [) Tj T* (    "authorization_code",) Tj T* (    "implicit",) Tj T* (    "urn:ietf:params:oauth:grant-type:jwt-bearer",) Tj T* (    "client_credentials",) Tj T* (    "urn:ietf:params:oauth:grant_type:redelegate") Tj T* (  ],) Tj T* (  "revocation_endpoint": "https://llw.aclark.net/revoke",) Tj T* (  "userinfo_endpoint": "https://llw.aclark.net/userinfo",) Tj T* (  "token_endpoint_auth_signing_alg_values_supported": [) Tj T* (    "HS256",) Tj T* (    "HS384",) Tj T* (    "HS512",) Tj T* (    "RS256",) Tj T* (    "RS384",) Tj T* (    "RS512",) Tj T* (    "ES256",) Tj T* (    "ES384",) Tj T* (    "ES512",) Tj T* (    "PS256",) Tj T* (    "PS384",) Tj T* (    "PS512") Tj T* (  ],) Tj T* (  "op_tos_uri": "https://llw.aclark.net/about",) Tj T* (  "require_request_uri_registration": false,) Tj T* (  "code_challenge_methods_supported": [) Tj T* (    "plain",) Tj T* (    "S256") Tj T* (  ],) Tj T* (  "id_token_encryption_alg_values_supported": [) Tj T* (    "RSA-OAEP",) Tj T* (    "RSA-OAEP-256",) Tj T* (    "RSA1_5") Tj T* (  ],) Tj T* (  "jwks_uri": "https://llw.aclark.net/jwk",) Tj T* (  "subject_types_supported": [) Tj T* (    "public",) Tj T* (    "pairwise") Tj T* ET
 Q
 Q
 Q
@@ -510,11 +510,11 @@ Q
 endstream
 endobj
 32 0 obj
-<< /Length 1618 >>
+<< /Length 1186 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 62.69291 139.8236 cm
+1 0 0 1 62.69291 307.8236 cm
 q
 q
 1 0 0 1 0 0 cm
@@ -524,11 +524,11 @@ q
 .662745 .662745 .662745 RG
 .5 w
 .960784 .960784 .862745 rg
-n -6 -6 468.6898 624 re B*
+n -6 -6 468.6898 456 re B*
 Q
 q
 0 0 0 rg
-BT 1 0 0 1 0 602 Tm /F3 10 Tf 12 TL (  "require_request_uri_registration": false,) Tj T* (  "code_challenge_methods_supported": [) Tj T* (    "plain",) Tj T* (    "S256") Tj T* (  ],) Tj T* (  "id_token_encryption_alg_values_supported": [) Tj T* (    "RSA-OAEP",) Tj T* (    "RSA-OAEP-256",) Tj T* (    "RSA1_5") Tj T* (  ],) Tj T* (  "jwks_uri": "https://llw.aclark.net/jwk",) Tj T* (  "subject_types_supported": [) Tj T* (    "public",) Tj T* (    "pairwise") Tj T* (  ],) Tj T* (  "id_token_signing_alg_values_supported": [) Tj T* (    "HS256",) Tj T* (    "HS384",) Tj T* (    "HS512",) Tj T* (    "RS256",) Tj T* (    "RS384",) Tj T* (    "RS512",) Tj T* (    "ES256",) Tj T* (    "ES384",) Tj T* (    "ES512",) Tj T* (    "PS256",) Tj T* (    "PS384",) Tj T* (    "PS512",) Tj T* (    "none") Tj T* (  ],) Tj T* (  "registration_endpoint": "https://llw.aclark.net/register",) Tj T* (  "request_object_signing_alg_values_supported": [) Tj T* (    "HS256",) Tj T* (    "HS384",) Tj T* (    "HS512",) Tj T* (    "RS256",) Tj T* (    "RS384",) Tj T* (    "RS512",) Tj T* (    "ES256",) Tj T* (    "ES384",) Tj T* (    "ES512",) Tj T* (    "PS256",) Tj T* (    "PS384",) Tj T* (    "PS512") Tj T* (  ],) Tj T* (  "request_object_encryption_alg_values_supported": [) Tj T* (    "RSA-OAEP",) Tj T* (    "RSA-OAEP-256",) Tj T* (    "RSA1_5") Tj T* (  ]) Tj T* (}) Tj T* ET
+BT 1 0 0 1 0 434 Tm /F3 10 Tf 12 TL (  ],) Tj T* (  "id_token_signing_alg_values_supported": [) Tj T* (    "HS256",) Tj T* (    "HS384",) Tj T* (    "HS512",) Tj T* (    "RS256",) Tj T* (    "RS384",) Tj T* (    "RS512",) Tj T* (    "ES256",) Tj T* (    "ES384",) Tj T* (    "ES512",) Tj T* (    "PS256",) Tj T* (    "PS384",) Tj T* (    "PS512",) Tj T* (    "none") Tj T* (  ],) Tj T* (  "registration_endpoint": "https://llw.aclark.net/register",) Tj T* (  "request_object_signing_alg_values_supported": [) Tj T* (    "HS256",) Tj T* (    "HS384",) Tj T* (    "HS512",) Tj T* (    "RS256",) Tj T* (    "RS384",) Tj T* (    "RS512",) Tj T* (    "ES256",) Tj T* (    "ES384",) Tj T* (    "ES512",) Tj T* (    "PS256",) Tj T* (    "PS384",) Tj T* (    "PS512") Tj T* (  ],) Tj T* (  "request_object_encryption_alg_values_supported": [) Tj T* (    "RSA-OAEP",) Tj T* (    "RSA-OAEP-256",) Tj T* (    "RSA1_5") Tj T* (  ]) Tj T* (}) Tj T* ET
 Q
 Q
 Q
@@ -587,20 +587,20 @@ xref
 0000495319 00000 n
 0000495411 00000 n
 0000500718 00000 n
-0000502592 00000 n
-0000504458 00000 n
-0000506519 00000 n
-0000508194 00000 n
-0000508274 00000 n
-0000508311 00000 n
-0000508348 00000 n
-0000508385 00000 n
-0000508422 00000 n
+0000502971 00000 n
+0000504835 00000 n
+0000506950 00000 n
+0000508193 00000 n
+0000508273 00000 n
+0000508310 00000 n
+0000508347 00000 n
+0000508384 00000 n
+0000508421 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com)
- [(\270N\325\364T\337fbz\355\007\210\336\237\011m) (\270N\325\364T\337fbz\355\007\210\336\237\011m)]
+ [(\354\275#\322a{\353\340\367\241\362\343\376\237\030 ) (\354\275#\322a{\353\340\367\241\362\343\376\237\030 )]
  /Info 20 0 R /Root 19 0 R /Size 39 >>
 startxref
-508459
+508458
 %%EOF
