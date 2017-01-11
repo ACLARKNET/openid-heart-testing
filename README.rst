@@ -2,6 +2,8 @@ HEART Testing
 =============
 
 .. image:: screenshot2.png
+    :align: center
+    :class: admonition
     :width: 50%
 
 What's this about?
