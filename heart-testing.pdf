@@ -32,14 +32,14 @@ endobj
 << /Outlines 16 0 R /PageLabels 17 0 R /PageMode /UseNone /Pages 11 0 R /Type /Catalog >>
 endobj
 10 0 obj
-<< /Author () /CreationDate (D:20170111081342+05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20170111081342+05'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+<< /Author () /CreationDate (D:20170111090359+05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20170111090359+05'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title (HEART Testing) /Trapped /False >>
 endobj
 11 0 obj
 << /Count 4 /Kids [ 5 0 R 6 0 R 7 0 R 8 0 R ] /Type /Pages >>
 endobj
 12 0 obj
-<< /Length 2240 >>
+<< /Length 2416 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -59,11 +59,11 @@ q
 .662745 .662745 .662745 RG
 .5 w
 .960784 .960784 .862745 rg
-n -6 -6 612 648 re B*
+n -6 -6 576 648 re B*
 Q
 q
 0 0 0 rg
-BT 1 0 0 1 0 626 Tm /F3 10 Tf 12 TL ($ curl http://35.167.110.150:8080/openid-connect-server-webapp/.well-known/openid-configuration | jq) Tj T* ({) Tj T* (  "request_parameter_supported": true,) Tj T* (  "claims_parameter_supported": false,) Tj T* (  "introspection_endpoint": "http://35.167.110.150:8080/openid-connect-server-webapp/introspect",) Tj T* (  "scopes_supported": [) Tj T* (    "openid",) Tj T* (    "profile",) Tj T* (    "email",) Tj T* (    "address",) Tj T* (    "phone",) Tj T* (    "offline_access") Tj T* (  ],) Tj T* (  "issuer": "http://35.167.110.150:8080/openid-connect-server-webapp/",) Tj T* (  "userinfo_encryption_enc_values_supported": [) Tj T* (    "A256CBC+HS512",) Tj T* (    "A256GCM",) Tj T* (    "A192GCM",) Tj T* (    "A128GCM",) Tj T* (    "A128CBC-HS256",) Tj T* (    "A192CBC-HS384",) Tj T* (    "A256CBC-HS512",) Tj T* (    "A128CBC+HS256") Tj T* (  ],) Tj T* (  "id_token_encryption_enc_values_supported": [) Tj T* (    "A256CBC+HS512",) Tj T* (    "A256GCM",) Tj T* (    "A192GCM",) Tj T* (    "A128GCM",) Tj T* (    "A128CBC-HS256",) Tj T* (    "A192CBC-HS384",) Tj T* (    "A256CBC-HS512",) Tj T* (    "A128CBC+HS256") Tj T* (  ],) Tj T* (  "authorization_endpoint": "http://35.167.110.150:8080/openid-connect-server-webapp/authorize",) Tj T* (  "service_documentation": "http://35.167.110.150:8080/openid-connect-server-webapp/about",) Tj T* (  "request_object_encryption_enc_values_supported": [) Tj T* (    "A256CBC+HS512",) Tj T* (    "A256GCM",) Tj T* (    "A192GCM",) Tj T* (    "A128GCM",) Tj T* (    "A128CBC-HS256",) Tj T* (    "A192CBC-HS384",) Tj T* (    "A256CBC-HS512",) Tj T* (    "A128CBC+HS256") Tj T* (  ],) Tj T* (  "userinfo_signing_alg_values_supported": [) Tj T* (    "HS256",) Tj T* (    "HS384",) Tj T* (    "HS512",) Tj T* (    "RS256",) Tj T* (    "RS384",) Tj T* (    "RS512",) Tj T* ET
+BT 1 0 0 1 0 626 Tm /F3 10 Tf 12 TL (curl https://llw.aclark.net/openid-connect-server-webapp/.well-known/openid-configuration | jq) Tj T* (  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current) Tj T* (                                 Dload  Upload   Total   Spent    Left  Speed) Tj T* (100  3148  100  3148    0     0   8429      0 --:--:-- --:--:-- --:--:--  8439) Tj T* ({) Tj T* (  "request_parameter_supported": true,) Tj T* (  "claims_parameter_supported": false,) Tj T* (  "introspection_endpoint": "https://llw.aclark.net/openid-connect-server-webapp/introspect",) Tj T* (  "scopes_supported": [) Tj T* (    "openid",) Tj T* (    "profile",) Tj T* (    "email",) Tj T* (    "address",) Tj T* (    "phone",) Tj T* (    "offline_access") Tj T* (  ],) Tj T* (  "issuer": "https://llw.aclark.net/openid-connect-server-webapp/",) Tj T* (  "userinfo_encryption_enc_values_supported": [) Tj T* (    "A256CBC+HS512",) Tj T* (    "A256GCM",) Tj T* (    "A192GCM",) Tj T* (    "A128GCM",) Tj T* (    "A128CBC-HS256",) Tj T* (    "A192CBC-HS384",) Tj T* (    "A256CBC-HS512",) Tj T* (    "A128CBC+HS256") Tj T* (  ],) Tj T* (  "id_token_encryption_enc_values_supported": [) Tj T* (    "A256CBC+HS512",) Tj T* (    "A256GCM",) Tj T* (    "A192GCM",) Tj T* (    "A128GCM",) Tj T* (    "A128CBC-HS256",) Tj T* (    "A192CBC-HS384",) Tj T* (    "A256CBC-HS512",) Tj T* (    "A128CBC+HS256") Tj T* (  ],) Tj T* (  "authorization_endpoint": "https://llw.aclark.net/openid-connect-server-webapp/authorize",) Tj T* (  "service_documentation": "https://llw.aclark.net/openid-connect-server-webapp/about",) Tj T* (  "request_object_encryption_enc_values_supported": [) Tj T* (    "A256CBC+HS512",) Tj T* (    "A256GCM",) Tj T* (    "A192GCM",) Tj T* (    "A128GCM",) Tj T* (    "A128CBC-HS256",) Tj T* (    "A192CBC-HS384",) Tj T* (    "A256CBC-HS512",) Tj T* (    "A128CBC+HS256") Tj T* (  ],) Tj T* (  "userinfo_signing_alg_values_supported": [) Tj T* (    "HS256",) Tj T* (    "HS384",) Tj T* (    "HS512",) Tj T* ET
 Q
 Q
 Q
@@ -73,7 +73,7 @@ Q
 endstream
 endobj
 13 0 obj
-<< /Length 1916 >>
+<< /Length 1854 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -87,11 +87,11 @@ q
 .662745 .662745 .662745 RG
 .5 w
 .960784 .960784 .862745 rg
-n -6 -6 516 684 re B*
+n -6 -6 492 684 re B*
 Q
 q
 0 0 0 rg
-BT 1 0 0 1 0 662 Tm /F3 10 Tf 12 TL (    "ES256",) Tj T* (    "ES384",) Tj T* (    "ES512",) Tj T* (    "PS256",) Tj T* (    "PS384",) Tj T* (    "PS512") Tj T* (  ],) Tj T* (  "claims_supported": [) Tj T* (    "sub",) Tj T* (    "name",) Tj T* (    "preferred_username",) Tj T* (    "given_name",) Tj T* (    "family_name",) Tj T* (    "middle_name",) Tj T* (    "nickname",) Tj T* (    "profile",) Tj T* (    "picture",) Tj T* (    "website",) Tj T* (    "gender",) Tj T* (    "zoneinfo",) Tj T* (    "locale",) Tj T* (    "updated_at",) Tj T* (    "birthdate",) Tj T* (    "email",) Tj T* (    "email_verified",) Tj T* (    "phone_number",) Tj T* (    "phone_number_verified",) Tj T* (    "address") Tj T* (  ],) Tj T* (  "claim_types_supported": [) Tj T* (    "normal") Tj T* (  ],) Tj T* (  "op_policy_uri": "http://35.167.110.150:8080/openid-connect-server-webapp/about",) Tj T* (  "token_endpoint_auth_methods_supported": [) Tj T* (    "client_secret_post",) Tj T* (    "client_secret_basic",) Tj T* (    "client_secret_jwt",) Tj T* (    "private_key_jwt",) Tj T* (    "none") Tj T* (  ],) Tj T* (  "token_endpoint": "http://35.167.110.150:8080/openid-connect-server-webapp/token",) Tj T* (  "response_types_supported": [) Tj T* (    "code",) Tj T* (    "token") Tj T* (  ],) Tj T* (  "request_uri_parameter_supported": false,) Tj T* (  "userinfo_encryption_alg_values_supported": [) Tj T* (    "RSA-OAEP",) Tj T* (    "RSA-OAEP-256",) Tj T* (    "RSA1_5") Tj T* (  ],) Tj T* (  "grant_types_supported": [) Tj T* (    "authorization_code",) Tj T* (    "implicit",) Tj T* (    "urn:ietf:params:oauth:grant-type:jwt-bearer",) Tj T* (    "client_credentials",) Tj T* ET
+BT 1 0 0 1 0 662 Tm /F3 10 Tf 12 TL (    "RS256",) Tj T* (    "RS384",) Tj T* (    "RS512",) Tj T* (    "ES256",) Tj T* (    "ES384",) Tj T* (    "ES512",) Tj T* (    "PS256",) Tj T* (    "PS384",) Tj T* (    "PS512") Tj T* (  ],) Tj T* (  "claims_supported": [) Tj T* (    "sub",) Tj T* (    "name",) Tj T* (    "preferred_username",) Tj T* (    "given_name",) Tj T* (    "family_name",) Tj T* (    "middle_name",) Tj T* (    "nickname",) Tj T* (    "profile",) Tj T* (    "picture",) Tj T* (    "website",) Tj T* (    "gender",) Tj T* (    "zoneinfo",) Tj T* (    "locale",) Tj T* (    "updated_at",) Tj T* (    "birthdate",) Tj T* (    "email",) Tj T* (    "email_verified",) Tj T* (    "phone_number",) Tj T* (    "phone_number_verified",) Tj T* (    "address") Tj T* (  ],) Tj T* (  "claim_types_supported": [) Tj T* (    "normal") Tj T* (  ],) Tj T* (  "op_policy_uri": "https://llw.aclark.net/openid-connect-server-webapp/about",) Tj T* (  "token_endpoint_auth_methods_supported": [) Tj T* (    "client_secret_post",) Tj T* (    "client_secret_basic",) Tj T* (    "client_secret_jwt",) Tj T* (    "private_key_jwt",) Tj T* (    "none") Tj T* (  ],) Tj T* (  "token_endpoint": "https://llw.aclark.net/openid-connect-server-webapp/token",) Tj T* (  "response_types_supported": [) Tj T* (    "code",) Tj T* (    "token") Tj T* (  ],) Tj T* (  "request_uri_parameter_supported": false,) Tj T* (  "userinfo_encryption_alg_values_supported": [) Tj T* (    "RSA-OAEP",) Tj T* (    "RSA-OAEP-256",) Tj T* (    "RSA1_5") Tj T* (  ],) Tj T* (  "grant_types_supported": [) Tj T* (    "authorization_code",) Tj T* ET
 Q
 Q
 Q
@@ -101,7 +101,7 @@ Q
 endstream
 endobj
 14 0 obj
-<< /Length 2049 >>
+<< /Length 2083 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -115,11 +115,11 @@ q
 .662745 .662745 .662745 RG
 .5 w
 .960784 .960784 .862745 rg
-n -6 -6 576 684 re B*
+n -6 -6 552 684 re B*
 Q
 q
 0 0 0 rg
-BT 1 0 0 1 0 662 Tm /F3 10 Tf 12 TL (    "urn:ietf:params:oauth:grant_type:redelegate") Tj T* (  ],) Tj T* (  "revocation_endpoint": "http://35.167.110.150:8080/openid-connect-server-webapp/revoke",) Tj T* (  "userinfo_endpoint": "http://35.167.110.150:8080/openid-connect-server-webapp/userinfo",) Tj T* (  "token_endpoint_auth_signing_alg_values_supported": [) Tj T* (    "HS256",) Tj T* (    "HS384",) Tj T* (    "HS512",) Tj T* (    "RS256",) Tj T* (    "RS384",) Tj T* (    "RS512",) Tj T* (    "ES256",) Tj T* (    "ES384",) Tj T* (    "ES512",) Tj T* (    "PS256",) Tj T* (    "PS384",) Tj T* (    "PS512") Tj T* (  ],) Tj T* (  "op_tos_uri": "http://35.167.110.150:8080/openid-connect-server-webapp/about",) Tj T* (  "require_request_uri_registration": false,) Tj T* (  "code_challenge_methods_supported": [) Tj T* (    "plain",) Tj T* (    "S256") Tj T* (  ],) Tj T* (  "id_token_encryption_alg_values_supported": [) Tj T* (    "RSA-OAEP",) Tj T* (    "RSA-OAEP-256",) Tj T* (    "RSA1_5") Tj T* (  ],) Tj T* (  "jwks_uri": "http://35.167.110.150:8080/openid-connect-server-webapp/jwk",) Tj T* (  "subject_types_supported": [) Tj T* (    "public",) Tj T* (    "pairwise") Tj T* (  ],) Tj T* (  "id_token_signing_alg_values_supported": [) Tj T* (    "HS256",) Tj T* (    "HS384",) Tj T* (    "HS512",) Tj T* (    "RS256",) Tj T* (    "RS384",) Tj T* (    "RS512",) Tj T* (    "ES256",) Tj T* (    "ES384",) Tj T* (    "ES512",) Tj T* (    "PS256",) Tj T* (    "PS384",) Tj T* (    "PS512",) Tj T* (    "none") Tj T* (  ],) Tj T* (  "registration_endpoint": "http://35.167.110.150:8080/openid-connect-server-webapp/register",) Tj T* (  "request_object_signing_alg_values_supported": [) Tj T* (    "HS256",) Tj T* (    "HS384",) Tj T* (    "HS512",) Tj T* (    "RS256",) Tj T* (    "RS384",) Tj T* ET
+BT 1 0 0 1 0 662 Tm /F3 10 Tf 12 TL (    "implicit",) Tj T* (    "urn:ietf:params:oauth:grant-type:jwt-bearer",) Tj T* (    "client_credentials",) Tj T* (    "urn:ietf:params:oauth:grant_type:redelegate") Tj T* (  ],) Tj T* (  "revocation_endpoint": "https://llw.aclark.net/openid-connect-server-webapp/revoke",) Tj T* (  "userinfo_endpoint": "https://llw.aclark.net/openid-connect-server-webapp/userinfo",) Tj T* (  "token_endpoint_auth_signing_alg_values_supported": [) Tj T* (    "HS256",) Tj T* (    "HS384",) Tj T* (    "HS512",) Tj T* (    "RS256",) Tj T* (    "RS384",) Tj T* (    "RS512",) Tj T* (    "ES256",) Tj T* (    "ES384",) Tj T* (    "ES512",) Tj T* (    "PS256",) Tj T* (    "PS384",) Tj T* (    "PS512") Tj T* (  ],) Tj T* (  "op_tos_uri": "https://llw.aclark.net/openid-connect-server-webapp/about",) Tj T* (  "require_request_uri_registration": false,) Tj T* (  "code_challenge_methods_supported": [) Tj T* (    "plain",) Tj T* (    "S256") Tj T* (  ],) Tj T* (  "id_token_encryption_alg_values_supported": [) Tj T* (    "RSA-OAEP",) Tj T* (    "RSA-OAEP-256",) Tj T* (    "RSA1_5") Tj T* (  ],) Tj T* (  "jwks_uri": "https://llw.aclark.net/openid-connect-server-webapp/jwk",) Tj T* (  "subject_types_supported": [) Tj T* (    "public",) Tj T* (    "pairwise") Tj T* (  ],) Tj T* (  "id_token_signing_alg_values_supported": [) Tj T* (    "HS256",) Tj T* (    "HS384",) Tj T* (    "HS512",) Tj T* (    "RS256",) Tj T* (    "RS384",) Tj T* (    "RS512",) Tj T* (    "ES256",) Tj T* (    "ES384",) Tj T* (    "ES512",) Tj T* (    "PS256",) Tj T* (    "PS384",) Tj T* (    "PS512",) Tj T* (    "none") Tj T* (  ],) Tj T* (  "registration_endpoint": "https://llw.aclark.net/openid-connect-server-webapp/register",) Tj T* (  "request_object_signing_alg_values_supported": [) Tj T* (    "HS256",) Tj T* (    "HS384",) Tj T* ET
 Q
 Q
 Q
@@ -129,11 +129,11 @@ Q
 endstream
 endobj
 15 0 obj
-<< /Length 602 >>
+<< /Length 665 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 62.69291 583.8236 cm
+1 0 0 1 62.69291 547.8236 cm
 q
 q
 1 0 0 1 0 0 cm
@@ -143,11 +143,11 @@ q
 .662745 .662745 .662745 RG
 .5 w
 .960784 .960784 .862745 rg
-n -6 -6 468.6898 180 re B*
+n -6 -6 468.6898 216 re B*
 Q
 q
 0 0 0 rg
-BT 1 0 0 1 0 158 Tm /F3 10 Tf 12 TL (    "RS512",) Tj T* (    "ES256",) Tj T* (    "ES384",) Tj T* (    "ES512",) Tj T* (    "PS256",) Tj T* (    "PS384",) Tj T* (    "PS512") Tj T* (  ],) Tj T* (  "request_object_encryption_alg_values_supported": [) Tj T* (    "RSA-OAEP",) Tj T* (    "RSA-OAEP-256",) Tj T* (    "RSA1_5") Tj T* (  ]) Tj T* (}) Tj T* ET
+BT 1 0 0 1 0 194 Tm /F3 10 Tf 12 TL (    "HS512",) Tj T* (    "RS256",) Tj T* (    "RS384",) Tj T* (    "RS512",) Tj T* (    "ES256",) Tj T* (    "ES384",) Tj T* (    "ES512",) Tj T* (    "PS256",) Tj T* (    "PS384",) Tj T* (    "PS512") Tj T* (  ],) Tj T* (  "request_object_encryption_alg_values_supported": [) Tj T* (    "RSA-OAEP",) Tj T* (    "RSA-OAEP-256",) Tj T* (    "RSA1_5") Tj T* (  ]) Tj T* (}) Tj T* ET
 Q
 Q
 Q
@@ -189,20 +189,20 @@ xref
 0000001406 00000 n
 0000001681 00000 n
 0000001762 00000 n
-0000004059 00000 n
-0000006032 00000 n
-0000008138 00000 n
-0000008796 00000 n
-0000008846 00000 n
-0000008917 00000 n
-0000008954 00000 n
-0000008991 00000 n
-0000009028 00000 n
+0000004235 00000 n
+0000006146 00000 n
+0000008286 00000 n
+0000009007 00000 n
+0000009057 00000 n
+0000009128 00000 n
+0000009165 00000 n
+0000009202 00000 n
+0000009239 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com)
- [(@+\027\226\231\021\311\013$n<\375\365\334d\251) (@+\027\226\231\021\311\013$n<\375\365\334d\251)]
+ [(\277M\206\320\321\321J\372Q\227\270\344\273\321q ) (\277M\206\320\321\321J\372Q\227\270\344\273\321q )]
  /Info 10 0 R /Root 9 0 R /Size 22 >>
 startxref
-9065
+9276
 %%EOF
