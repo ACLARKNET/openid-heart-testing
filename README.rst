@@ -15,7 +15,7 @@ According to https://bitbucket.org/openid/heart/wiki/Home,
 
     MITREid Connect is an open source reference implementation of OpenID Connect and OAuth 2.0 from the MITRE Corporation and MIT Internet Trust Consortium (ITC).
 
-While MITREid Connect does not specifically mention HEART, we assume it's appearance under the "reference implementation" section of the HEART Working Group Wiki implies that it offers full HEART compliance to those who run it.
+While MITREid Connect does not specifically mention HEART, we assume it's appearance under the "reference implementation" section of the HEART Working Group Wiki implies it supports full HEART compliance.
 
 Endpoints
 ---------
@@ -29,6 +29,13 @@ According to https://github.com/mitreid-connect/OpenID-Connect-Java-Spring-Serve
     - JSON Web Key Set (public key): /jwk
     - User info: /userinfo
     - Provider configuration: /.well-known/openid-configuration
+
+SSL
+---
+
+As SSL is a requirement, we have configured a free certificate from `Let's Encrypt <https://letsencrypt.org>`_
+
+.. image:: screenshot.png
 
 Testing
 -------
