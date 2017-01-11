@@ -18,7 +18,7 @@ According to https://bitbucket.org/openid/heart/wiki/Home,
 
     MITREid Connect is an open source reference implementation of OpenID Connect and OAuth 2.0 from the MITRE Corporation and MIT Internet Trust Consortium (ITC).
 
-While MITREid Connect does not specifically mention HEART, we assume it's appearance under the "reference implementation" section of the HEART Working Group Wiki implies it supports full HEART compliance.
+While MITREid Connect does not specifically mention HEART, we assume it's appearance under the "reference implementation" section of the HEART Working Group Wiki implies it is fully HEART compliant.
 
 Endpoints
 ---------

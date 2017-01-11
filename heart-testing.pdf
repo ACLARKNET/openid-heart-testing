@@ -28,10 +28,10 @@ endobj
 << /A << /S /URI /Type /Action /URI (https://bitbucket.org/openid/heart/wiki/Home) >> /Border [ 0 0 0 ] /Rect [ 121.0529 376.0347 315.5829 388.0347 ] /Subtype /Link /Type /Annot >>
 endobj
 8 0 obj
-<< /A << /S /URI /Type /Action /URI (https://github.com/mitreid-connect/OpenID-Connect-Java-Spring-Server/wiki/Server-configuration#endpoints) >> /Border [ 0 0 0 ] /Rect [ 124.6827 253.0347 530.7678 265.0347 ] /Subtype /Link /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (https://github.com/mitreid-connect/OpenID-Connect-Java-Spring-Server/wiki/Server-configuration#endpoints) >> /Border [ 0 0 0 ] /Rect [ 124.6827 265.0347 530.7678 277.0347 ] /Subtype /Link /Type /Annot >>
 endobj
 9 0 obj
-<< /A << /S /URI /Type /Action /URI (https://github.com/mitreid-connect/OpenID-Connect-Java-Spring-Server/wiki/Server-configuration#endpoints) >> /Border [ 0 0 0 ] /Rect [ 62.69291 241.0347 133.2929 253.0347 ] /Subtype /Link /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (https://github.com/mitreid-connect/OpenID-Connect-Java-Spring-Server/wiki/Server-configuration#endpoints) >> /Border [ 0 0 0 ] /Rect [ 62.69291 253.0347 133.2929 265.0347 ] /Subtype /Link /Type /Annot >>
 endobj
 10 0 obj
 << /Annots [ 6 0 R 7 0 R 8 0 R 9 0 R ] /Contents 36 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 35 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /XObject << /FormXob.5d9cedc1b7b964320731ab20a7dad0ce 4 0 R >> >> /Rotate 0 
@@ -79,7 +79,7 @@ endobj
 << /Outlines 22 0 R /PageLabels 42 0 R /PageMode /UseNone /Pages 35 0 R /Type /Catalog >>
 endobj
 21 0 obj
-<< /Author () /CreationDate (D:20170111103221+05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20170111103221+05'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+<< /Author () /CreationDate (D:20170111173820+05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20170111173820+05'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title (HEART Testing) /Trapped /False >>
 endobj
 22 0 obj
@@ -92,7 +92,7 @@ endobj
 << /Dest [ 10 0 R /XYZ 62.69291 415.0347 0 ] /Next 25 0 R /Parent 22 0 R /Prev 23 0 R /Title (Reference implementation) >>
 endobj
 25 0 obj
-<< /Dest [ 10 0 R /XYZ 62.69291 292.0347 0 ] /Next 26 0 R /Parent 22 0 R /Prev 24 0 R /Title (Endpoints) >>
+<< /Dest [ 10 0 R /XYZ 62.69291 304.0347 0 ] /Next 26 0 R /Parent 22 0 R /Prev 24 0 R /Title (Endpoints) >>
 endobj
 26 0 obj
 << /Dest [ 15 0 R /XYZ 62.69291 765.0236 0 ] /Next 27 0 R /Parent 22 0 R /Prev 25 0 R /Title (SSL) >>
@@ -126,7 +126,7 @@ endobj
 << /Count 6 /Kids [ 10 0 R 15 0 R 16 0 R 17 0 R 18 0 R 19 0 R ] /Type /Pages >>
 endobj
 36 0 obj
-<< /Length 5250 >>
+<< /Length 5220 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -210,29 +210,29 @@ q
 1 0 0 1 62.69291 346.0347 cm
 Q
 q
-1 0 0 1 62.69291 304.0347 cm
+1 0 0 1 62.69291 316.0347 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 1.883059 Tw (While MITREid Connect does not specifically mention HEART, we assume it's appearance under the) Tj T* 0 Tw 1.87152 Tw ("reference implementation" section of the HEART Working Group Wiki implies it supports full HEART) Tj T* 0 Tw (compliance.) Tj T* ET
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.883059 Tw (While MITREid Connect does not specifically mention HEART, we assume it's appearance under the) Tj T* 0 Tw ("reference implementation" section of the HEART Working Group Wiki implies it is fully HEART compliant.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 271.0347 cm
+1 0 0 1 62.69291 283.0347 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Endpoints) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 241.0347 cm
+1 0 0 1 62.69291 253.0347 cm
 q
 BT 1 0 0 1 0 14 Tm 1.814882 Tw 12 TL /F1 10 Tf 0 0 0 rg (According to ) Tj 0 0 .501961 rg (https://github.com/mitreid-connect/OpenID-Connect-Java-Spring-Server/wiki/Server-configur) Tj T* 0 Tw (ation#endpoints) Tj 0 0 0 rg (, a HEART-compliant server should offer the following endpoints:) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 235.0347 cm
+1 0 0 1 62.69291 247.0347 cm
 Q
 q
-1 0 0 1 62.69291 109.0347 cm
+1 0 0 1 62.69291 121.0347 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 2 Tm  T* ET
@@ -414,7 +414,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 109.0347 cm
+1 0 0 1 62.69291 121.0347 cm
 Q
  
 endstream
@@ -694,23 +694,23 @@ xref
 0000496435 00000 n
 0000496597 00000 n
 0000496696 00000 n
-0000502003 00000 n
-0000504554 00000 n
-0000506975 00000 n
-0000508804 00000 n
-0000510833 00000 n
-0000511596 00000 n
-0000511689 00000 n
-0000511726 00000 n
-0000511763 00000 n
-0000511800 00000 n
-0000511837 00000 n
-0000511874 00000 n
+0000501973 00000 n
+0000504524 00000 n
+0000506945 00000 n
+0000508774 00000 n
+0000510803 00000 n
+0000511566 00000 n
+0000511659 00000 n
+0000511696 00000 n
+0000511733 00000 n
+0000511770 00000 n
+0000511807 00000 n
+0000511844 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com)
- [(\020\002Afb\011\020i\372\356\244\311\222\035\233$) (\020\002Afb\011\020i\372\356\244\311\222\035\233$)]
+ [(\204\\\210#\020\240\013k\277E\206\323\224\035\260\356) (\204\\\210#\020\240\013k\277E\206\323\224\035\260\356)]
  /Info 21 0 R /Root 20 0 R /Size 49 >>
 startxref
-511911
+511881
 %%EOF
