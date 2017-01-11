@@ -1,6 +1,8 @@
 HEART Testing
 =============
 
+.. image:: screenshot2.png
+
 What's this about?
 ------------------
 
