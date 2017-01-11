@@ -330,4 +330,4 @@ vagrant-update:
 .DEFAULT_GOAL=heart
 heart: pdf git-commit-auto-push
 pdf:
-	rst2pdf --stylesheets=bootstrap.min.css README.rst -o heart-testing.pdf
+	rst2pdf --stylesheets=bootstrap.css README.rst -o heart-testing.pdf
