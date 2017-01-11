@@ -326,4 +326,6 @@ vagrant-up:
 vagrant-update:
 	vagrant box update
 
+# Heart
+.DEFAULT_GOAL=heart
 heart: git-commit-auto-push pdf
