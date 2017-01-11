@@ -1,14 +1,40 @@
 HEART Testing
 =============
 
+What's this about?
+------------------
+
 From http://openid.net/wg/heart/,
 
     The HEART Working Group intends to harmonize and develop a set of privacy and security specifications that enable an individual to control the authorization of access to RESTful health-related data sharing APIs, and to facilitate the development of interoperable implementations of these specifications by others.
 
-- https://github.com/mitreid-connect/OpenID-Connect-Java-Spring-Server/wiki/Server-configuration#endpoints
+Reference implementation
+------------------------
 
-::
-        
+According to https://bitbucket.org/openid/heart/wiki/Home,
+
+    MITREid Connect is an open source reference implementation of OpenID Connect and OAuth 2.0 from the MITRE Corporation and MIT Internet Trust Consortium (ITC).
+
+While MITREid Connect does not specifically mention HEART, we assume it's appearance under the "reference implementation" section of the HEART Working Group Wiki implies that it offers full HEART compliance to those who run it.
+
+Endpoints
+---------
+
+According to https://github.com/mitreid-connect/OpenID-Connect-Java-Spring-Server/wiki/Server-configuration#endpoints, a HEART-compliant server should offer the following endpoints:
+
+    - Authorization endpoint: /authorize
+    - Token endpoint: /token
+    - Token introspection: /introspect
+    - Token revocation: /revoke
+    - JSON Web Key Set (public key): /jwk
+    - User info: /userinfo
+    - Provider configuration: /.well-known/openid-configuration
+
+Testing
+-------
+
+Here we confirm our MITREid-Connect server offers the specified endpoints::
+
     $ curl https://llw.aclark.net/.well-known/openid-configuration | jq
       % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                      Dload  Upload   Total   Spent    Left  Speed
