@@ -1,6 +1,10 @@
 HEART Testing
 =============
 
+From http://openid.net/wg/heart/,
+
+    The HEART Working Group intends to harmonize and develop a set of privacy and security specifications that enable an individual to control the authorization of access to RESTful health-related data sharing APIs, and to facilitate the development of interoperable implementations of these specifications by others.
+
 - https://github.com/mitreid-connect/OpenID-Connect-Java-Spring-Server/wiki/Server-configuration#endpoints
 
 ::
