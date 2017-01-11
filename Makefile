@@ -329,3 +329,5 @@ vagrant-update:
 # Heart
 .DEFAULT_GOAL=heart
 heart: git-commit-auto-push pdf
+pdf:
+	rst2pdf README.rst -o heart-testing.pdf
