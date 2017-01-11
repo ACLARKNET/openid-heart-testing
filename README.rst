@@ -1,6 +1,8 @@
 HEART Testing
 =============
 
+- https://github.com/mitreid-connect/OpenID-Connect-Java-Spring-Server/wiki/Server-configuration#endpoints
+
 ::
         
     $ curl https://llw.aclark.net/.well-known/openid-configuration | jq
