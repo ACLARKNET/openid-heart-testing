@@ -22,16 +22,16 @@ stream
 Gb"0;0`_7S!5bE.WFlN5TE"rlzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz!!(qqkt8CC~>endstream
 endobj
 6 0 obj
-<< /A << /S /URI /Type /Action /URI (http://openid.net/wg/heart/) >> /Border [ 0 0 0 ] /Rect [ 88.80291 480.0701 204.4329 492.0701 ] /Subtype /Link /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (http://openid.net/wg/heart/) >> /Border [ 0 0 0 ] /Rect [ 88.80291 482.0701 204.4329 494.0701 ] /Subtype /Link /Type /Annot >>
 endobj
 7 0 obj
-<< /A << /S /URI /Type /Action /URI (https://bitbucket.org/openid/heart/wiki/Home) >> /Border [ 0 0 0 ] /Rect [ 121.0529 375.0701 315.5829 387.0701 ] /Subtype /Link /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (https://bitbucket.org/openid/heart/wiki/Home) >> /Border [ 0 0 0 ] /Rect [ 121.0529 377.0701 315.5829 389.0701 ] /Subtype /Link /Type /Annot >>
 endobj
 8 0 obj
-<< /A << /S /URI /Type /Action /URI (https://github.com/mitreid-connect/OpenID-Connect-Java-Spring-Server/wiki/Server-configuration#endpoints) >> /Border [ 0 0 0 ] /Rect [ 124.6827 264.0701 530.7678 276.0701 ] /Subtype /Link /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (https://github.com/mitreid-connect/OpenID-Connect-Java-Spring-Server/wiki/Server-configuration#endpoints) >> /Border [ 0 0 0 ] /Rect [ 124.6827 266.0701 530.7678 278.0701 ] /Subtype /Link /Type /Annot >>
 endobj
 9 0 obj
-<< /A << /S /URI /Type /Action /URI (https://github.com/mitreid-connect/OpenID-Connect-Java-Spring-Server/wiki/Server-configuration#endpoints) >> /Border [ 0 0 0 ] /Rect [ 62.69291 252.0701 133.2929 264.0701 ] /Subtype /Link /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (https://github.com/mitreid-connect/OpenID-Connect-Java-Spring-Server/wiki/Server-configuration#endpoints) >> /Border [ 0 0 0 ] /Rect [ 62.69291 254.0701 133.2929 266.0701 ] /Subtype /Link /Type /Annot >>
 endobj
 10 0 obj
 << /Annots [ 6 0 R 7 0 R 8 0 R 9 0 R ] /Contents 36 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 35 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /XObject << /FormXob.dc91a42cc678111a569285f6d0c2c5c7 4 0 R >> >> /Rotate 0 
@@ -79,20 +79,20 @@ endobj
 << /Outlines 22 0 R /PageLabels 42 0 R /PageMode /UseNone /Pages 35 0 R /Type /Catalog >>
 endobj
 21 0 obj
-<< /Author () /CreationDate (D:20170111180901+05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20170111180901+05'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+<< /Author () /CreationDate (D:20170111181655+05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20170111181655+05'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title (HEART Testing) /Trapped /False >>
 endobj
 22 0 obj
 << /Count 13 /First 23 0 R /Last 27 0 R /Type /Outlines >>
 endobj
 23 0 obj
-<< /Dest [ 10 0 R /XYZ 62.69291 519.0701 0 ] /Next 24 0 R /Parent 22 0 R /Title (What's this about?) >>
+<< /Dest [ 10 0 R /XYZ 62.69291 521.0701 0 ] /Next 24 0 R /Parent 22 0 R /Title (What's this about?) >>
 endobj
 24 0 obj
-<< /Dest [ 10 0 R /XYZ 62.69291 414.0701 0 ] /Next 25 0 R /Parent 22 0 R /Prev 23 0 R /Title (Reference implementation) >>
+<< /Dest [ 10 0 R /XYZ 62.69291 416.0701 0 ] /Next 25 0 R /Parent 22 0 R /Prev 23 0 R /Title (Reference implementation) >>
 endobj
 25 0 obj
-<< /Dest [ 10 0 R /XYZ 62.69291 303.0701 0 ] /Next 26 0 R /Parent 22 0 R /Prev 24 0 R /Title (Endpoints) >>
+<< /Dest [ 10 0 R /XYZ 62.69291 305.0701 0 ] /Next 26 0 R /Parent 22 0 R /Prev 24 0 R /Title (Endpoints) >>
 endobj
 26 0 obj
 << /Dest [ 15 0 R /XYZ 62.69291 765.0236 0 ] /Next 27 0 R /Parent 22 0 R /Prev 25 0 R /Title (SSL) >>
@@ -137,29 +137,29 @@ BT 1 0 0 1 0 4 Tm /F2 20 Tf 24 TL 162.1649 0 Td (HEART Testing) Tj T* -162.1649 
 Q
 Q
 q
-1 0 0 1 180.1654 531.0701 cm
+1 0 0 1 180.1654 533.0701 cm
 q
 234.9449 0 0 197.9536 0 0 cm
 /FormXob.dc91a42cc678111a569285f6d0c2c5c7 Do
 Q
 Q
 q
-1 0 0 1 62.69291 498.0701 cm
+1 0 0 1 62.69291 500.0701 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (What's this about?) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 480.0701 cm
+1 0 0 1 62.69291 482.0701 cm
 q
 BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (From ) Tj 0 0 .501961 rg (http://openid.net/wg/heart/) Tj 0 0 0 rg (,) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 474.0701 cm
+1 0 0 1 62.69291 476.0701 cm
 Q
 q
-1 0 0 1 62.69291 426.0701 cm
+1 0 0 1 62.69291 428.0701 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 2 Tm  T* ET
@@ -174,25 +174,25 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 426.0701 cm
+1 0 0 1 62.69291 428.0701 cm
 Q
 q
-1 0 0 1 62.69291 393.0701 cm
+1 0 0 1 62.69291 395.0701 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Reference implementation) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 375.0701 cm
+1 0 0 1 62.69291 377.0701 cm
 q
 BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (According to ) Tj 0 0 .501961 rg (https://bitbucket.org/openid/heart/wiki/Home) Tj 0 0 0 rg (,) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 369.0701 cm
+1 0 0 1 62.69291 371.0701 cm
 Q
 q
-1 0 0 1 62.69291 345.0701 cm
+1 0 0 1 62.69291 347.0701 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 2 Tm  T* ET
@@ -207,32 +207,32 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 345.0701 cm
+1 0 0 1 62.69291 347.0701 cm
 Q
 q
-1 0 0 1 62.69291 315.0701 cm
+1 0 0 1 62.69291 317.0701 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.883059 Tw (While MITREid Connect does not specifically mention HEART, we assume it's appearance under the) Tj T* 0 Tw ("reference implementation" section of the HEART Working Group Wiki implies it is fully HEART compliant.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 282.0701 cm
+1 0 0 1 62.69291 284.0701 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Endpoints) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 252.0701 cm
+1 0 0 1 62.69291 254.0701 cm
 q
 BT 1 0 0 1 0 14 Tm 1.814882 Tw 12 TL /F1 10 Tf 0 0 0 rg (According to ) Tj 0 0 .501961 rg (https://github.com/mitreid-connect/OpenID-Connect-Java-Spring-Server/wiki/Server-configur) Tj T* 0 Tw (ation#endpoints) Tj 0 0 0 rg (, a HEART-compliant server should offer the following endpoints:) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 246.0701 cm
+1 0 0 1 62.69291 248.0701 cm
 Q
 q
-1 0 0 1 62.69291 120.0701 cm
+1 0 0 1 62.69291 122.0701 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 2 Tm  T* ET
@@ -414,7 +414,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 120.0701 cm
+1 0 0 1 62.69291 122.0701 cm
 Q
  
 endstream
@@ -709,7 +709,7 @@ xref
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com)
- [(\022\211\334^\002\221\2308?\220\350\254\337\020B\030) (\022\211\334^\002\221\2308?\220\350\254\337\020B\030)]
+ [(\243\231\002I\221\273\235\231\342\233\253\004\003\301\204d) (\243\231\002I\221\273\235\231\342\233\253\004\003\301\204d)]
  /Info 21 0 R /Root 20 0 R /Size 49 >>
 startxref
 495350
