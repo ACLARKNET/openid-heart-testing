@@ -325,3 +325,5 @@ vagrant-up:
 	vagrant up --provider virtualbox
 vagrant-update:
 	vagrant box update
+
+heart: git-commit-auto-push pdf
