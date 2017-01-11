@@ -3,11 +3,14 @@ HEART Testing
 
 ::
 
-    $ curl http://35.167.110.150:8080/openid-connect-server-webapp/.well-known/openid-configuration | jq
+    curl https://llw.aclark.net/openid-connect-server-webapp/.well-known/openid-configuration | jq
+      % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                     Dload  Upload   Total   Spent    Left  Speed
+    100  3148  100  3148    0     0   8429      0 --:--:-- --:--:-- --:--:--  8439
     {
       "request_parameter_supported": true,
       "claims_parameter_supported": false,
-      "introspection_endpoint": "http://35.167.110.150:8080/openid-connect-server-webapp/introspect",
+      "introspection_endpoint": "https://llw.aclark.net/openid-connect-server-webapp/introspect",
       "scopes_supported": [
         "openid",
         "profile",
@@ -16,7 +19,7 @@ HEART Testing
         "phone",
         "offline_access"
       ],
-      "issuer": "http://35.167.110.150:8080/openid-connect-server-webapp/",
+      "issuer": "https://llw.aclark.net/openid-connect-server-webapp/",
       "userinfo_encryption_enc_values_supported": [
         "A256CBC+HS512",
         "A256GCM",
@@ -37,8 +40,8 @@ HEART Testing
         "A256CBC-HS512",
         "A128CBC+HS256"
       ],
-      "authorization_endpoint": "http://35.167.110.150:8080/openid-connect-server-webapp/authorize",
-      "service_documentation": "http://35.167.110.150:8080/openid-connect-server-webapp/about",
+      "authorization_endpoint": "https://llw.aclark.net/openid-connect-server-webapp/authorize",
+      "service_documentation": "https://llw.aclark.net/openid-connect-server-webapp/about",
       "request_object_encryption_enc_values_supported": [
         "A256CBC+HS512",
         "A256GCM",
@@ -88,7 +91,7 @@ HEART Testing
       "claim_types_supported": [
         "normal"
       ],
-      "op_policy_uri": "http://35.167.110.150:8080/openid-connect-server-webapp/about",
+      "op_policy_uri": "https://llw.aclark.net/openid-connect-server-webapp/about",
       "token_endpoint_auth_methods_supported": [
         "client_secret_post",
         "client_secret_basic",
@@ -96,7 +99,7 @@ HEART Testing
         "private_key_jwt",
         "none"
       ],
-      "token_endpoint": "http://35.167.110.150:8080/openid-connect-server-webapp/token",
+      "token_endpoint": "https://llw.aclark.net/openid-connect-server-webapp/token",
       "response_types_supported": [
         "code",
         "token"
@@ -114,8 +117,8 @@ HEART Testing
         "client_credentials",
         "urn:ietf:params:oauth:grant_type:redelegate"
       ],
-      "revocation_endpoint": "http://35.167.110.150:8080/openid-connect-server-webapp/revoke",
-      "userinfo_endpoint": "http://35.167.110.150:8080/openid-connect-server-webapp/userinfo",
+      "revocation_endpoint": "https://llw.aclark.net/openid-connect-server-webapp/revoke",
+      "userinfo_endpoint": "https://llw.aclark.net/openid-connect-server-webapp/userinfo",
       "token_endpoint_auth_signing_alg_values_supported": [
         "HS256",
         "HS384",
@@ -130,7 +133,7 @@ HEART Testing
         "PS384",
         "PS512"
       ],
-      "op_tos_uri": "http://35.167.110.150:8080/openid-connect-server-webapp/about",
+      "op_tos_uri": "https://llw.aclark.net/openid-connect-server-webapp/about",
       "require_request_uri_registration": false,
       "code_challenge_methods_supported": [
         "plain",
@@ -141,7 +144,7 @@ HEART Testing
         "RSA-OAEP-256",
         "RSA1_5"
       ],
-      "jwks_uri": "http://35.167.110.150:8080/openid-connect-server-webapp/jwk",
+      "jwks_uri": "https://llw.aclark.net/openid-connect-server-webapp/jwk",
       "subject_types_supported": [
         "public",
         "pairwise"
@@ -161,7 +164,7 @@ HEART Testing
         "PS512",
         "none"
       ],
-      "registration_endpoint": "http://35.167.110.150:8080/openid-connect-server-webapp/register",
+      "registration_endpoint": "https://llw.aclark.net/openid-connect-server-webapp/register",
       "request_object_signing_alg_values_supported": [
         "HS256",
         "HS384",
