@@ -49,12 +49,12 @@ Here we confirm our MITREid-Connect server offers the specified endpoints.
 Authorization endpoint: /authorize
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**TODO**
+.. Note:: Authenticated requests not supported yet.
 
 Token endpoint: /token
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. Warning:: This request made anonymously.
+.. Note:: Authenticated requests not supported yet.
 
 ::
 
@@ -70,12 +70,34 @@ Token endpoint: /token
 Token introspection: /introspect
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. Warning:: This request made anonymously.
+.. Note:: Authenticated requests not supported yet.
+
+::
+
+    curl https://llw.aclark.net/introspect | jq
+      % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                     Dload  Upload   Total   Spent    Left  Speed
+    100    71    0    71    0     0    121      0 --:--:-- --:--:-- --:--:--   121
+    {
+      "error": "invalid_client",
+      "error_description": "Bad client credentials"
+    }
 
 Token revocation: /revoke
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. Warning:: This request made anonymously.
+.. Note:: Authenticated requests not supported yet.
+
+::
+
+    curl https://llw.aclark.net/revoke | jq
+      % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                     Dload  Upload   Total   Spent    Left  Speed
+    100    71    0    71    0     0    120      0 --:--:-- --:--:-- --:--:--   120
+    {
+      "error": "invalid_client",
+      "error_description": "Bad client credentials"
+    }
 
 
 JSON Web Key Set (public key): /jwk
@@ -103,7 +125,7 @@ JSON Web Key Set (public key): /jwk
 User info: /userinfo
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. Warning:: This request made anonymously.
+.. Note:: Authenticated requests not supported yet.
 
 ::
 
