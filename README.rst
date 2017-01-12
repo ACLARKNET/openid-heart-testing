@@ -329,4 +329,5 @@ Provider configuration: /.well-known/openid-configuration
 Todo
 ----
 
-- Support authentication
+- Support authentication.
+- Test use cases.

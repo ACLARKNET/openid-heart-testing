@@ -90,7 +90,7 @@ endobj
 << /Outlines 25 0 R /PageLabels 48 0 R /PageMode /UseNone /Pages 39 0 R /Type /Catalog >>
 endobj
 24 0 obj
-<< /Author () /CreationDate (D:20170111200600+05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20170111200600+05'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+<< /Author () /CreationDate (D:20170111200650+05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20170111200650+05'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title (HEART Testing) /Trapped /False >>
 endobj
 25 0 obj
@@ -908,7 +908,7 @@ Q
 endstream
 endobj
 47 0 obj
-<< /Length 1153 >>
+<< /Length 1478 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -959,14 +959,38 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Support authentication) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Support authentication.) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 62.69291 502.8236 cm
+1 0 0 1 62.69291 496.8236 cm
+Q
+q
+1 0 0 1 62.69291 484.8236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Test use cases.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 484.8236 cm
 Q
  
 endstream
@@ -1049,20 +1073,20 @@ xref
 0000497017 00000 n
 0000498878 00000 n
 0000500875 00000 n
-0000502085 00000 n
-0000502196 00000 n
-0000502233 00000 n
-0000502270 00000 n
-0000502307 00000 n
-0000502344 00000 n
-0000502381 00000 n
-0000502418 00000 n
-0000502455 00000 n
+0000502410 00000 n
+0000502521 00000 n
+0000502558 00000 n
+0000502595 00000 n
+0000502632 00000 n
+0000502669 00000 n
+0000502706 00000 n
+0000502743 00000 n
+0000502780 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com)
- [(;\204\222\3565\256/\352\0037\231\366xoeg) (;\204\222\3565\256/\352\0037\231\366xoeg)]
+ [(\\yq\352\333\026Ay\3764<5\237\354\024\336) (\\yq\352\333\026Ay\3764<5\237\354\024\336)]
  /Info 24 0 R /Root 23 0 R /Size 57 >>
 startxref
-502492
+502817
 %%EOF
