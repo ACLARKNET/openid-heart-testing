@@ -1,7 +1,7 @@
 %PDF-1.4
 %“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
 1 0 obj
-<< /F1 2 0 R /F2 3 0 R /F3 14 0 R /F4 16 0 R >>
+<< /F1 2 0 R /F2 3 0 R /F3 14 0 R /F4 15 0 R >>
 endobj
 2 0 obj
 << /BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font >>
@@ -56,11 +56,11 @@ endobj
 << /BaseFont /Helvetica-BoldOblique /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font >>
 endobj
 15 0 obj
-<< /Annots [ 11 0 R ] /Contents 39 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 37 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /XObject << /FormXob.7ce2f08bc6eb16e8d921ef3a291d55b3 12 0 R >> >> /Rotate 0 
-  /Trans <<  >> /Type /Page >>
+<< /BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F4 /Subtype /Type1 /Type /Font >>
 endobj
 16 0 obj
-<< /BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F4 /Subtype /Type1 /Type /Font >>
+<< /Annots [ 11 0 R ] /Contents 39 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 37 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /XObject << /FormXob.7ce2f08bc6eb16e8d921ef3a291d55b3 12 0 R >> >> /Rotate 0 
+  /Trans <<  >> /Type /Page >>
 endobj
 17 0 obj
 << /Contents 40 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 37 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
@@ -86,7 +86,7 @@ endobj
 << /Outlines 24 0 R /PageLabels 45 0 R /PageMode /UseNone /Pages 37 0 R /Type /Catalog >>
 endobj
 23 0 obj
-<< /Author () /CreationDate (D:20170111195338+05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20170111195338+05'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+<< /Author () /CreationDate (D:20170111195544+05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20170111195544+05'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title (HEART Testing) /Trapped /False >>
 endobj
 24 0 obj
@@ -102,35 +102,35 @@ endobj
 << /Dest [ 10 0 R /XYZ 62.69291 305.0701 0 ] /Next 28 0 R /Parent 24 0 R /Prev 26 0 R /Title (Endpoints) >>
 endobj
 28 0 obj
-<< /Dest [ 15 0 R /XYZ 62.69291 765.0236 0 ] /Next 29 0 R /Parent 24 0 R /Prev 27 0 R /Title (SSL) >>
+<< /Dest [ 16 0 R /XYZ 62.69291 765.0236 0 ] /Next 29 0 R /Parent 24 0 R /Prev 27 0 R /Title (SSL) >>
 endobj
 29 0 obj
-<< /Count 7 /Dest [ 15 0 R /XYZ 62.69291 542.409 0 ] /First 30 0 R /Last 36 0 R /Parent 24 0 R /Prev 28 0 R 
+<< /Count 7 /Dest [ 16 0 R /XYZ 62.69291 542.409 0 ] /First 30 0 R /Last 36 0 R /Parent 24 0 R /Prev 28 0 R 
   /Title (Testing) >>
 endobj
 30 0 obj
-<< /Dest [ 15 0 R /XYZ 62.69291 491.409 0 ] /Next 31 0 R /Parent 29 0 R /Title (Authorization endpoint: /authorize) >>
+<< /Dest [ 16 0 R /XYZ 62.69291 491.409 0 ] /Next 31 0 R /Parent 29 0 R /Title (Authorization endpoint: /authorize) >>
 endobj
 31 0 obj
-<< /Dest [ 15 0 R /XYZ 62.69291 443.409 0 ] /Next 32 0 R /Parent 29 0 R /Prev 30 0 R /Title (Token endpoint: /token) >>
+<< /Dest [ 16 0 R /XYZ 62.69291 443.409 0 ] /Next 32 0 R /Parent 29 0 R /Prev 30 0 R /Title (Token endpoint: /token) >>
 endobj
 32 0 obj
-<< /Dest [ 15 0 R /XYZ 62.69291 318.409 0 ] /Next 33 0 R /Parent 29 0 R /Prev 31 0 R /Title (Token introspection: /introspect) >>
+<< /Dest [ 16 0 R /XYZ 62.69291 201.209 0 ] /Next 33 0 R /Parent 29 0 R /Prev 31 0 R /Title (Token introspection: /introspect) >>
 endobj
 33 0 obj
-<< /Dest [ 15 0 R /XYZ 62.69291 193.409 0 ] /Next 34 0 R /Parent 29 0 R /Prev 32 0 R /Title (Token revocation: /revoke) >>
+<< /Dest [ 17 0 R /XYZ 62.69291 765.0236 0 ] /Next 34 0 R /Parent 29 0 R /Prev 32 0 R /Title (Token revocation: /revoke) >>
 endobj
 34 0 obj
-<< /Dest [ 17 0 R /XYZ 62.69291 643.8236 0 ] /Next 35 0 R /Parent 29 0 R /Prev 33 0 R /Title (JSON Web Key Set \(public key\): /jwk) >>
+<< /Dest [ 17 0 R /XYZ 62.69291 640.0236 0 ] /Next 35 0 R /Parent 29 0 R /Prev 33 0 R /Title (JSON Web Key Set \(public key\): /jwk) >>
 endobj
 35 0 obj
-<< /Dest [ 17 0 R /XYZ 62.69291 412.6236 0 ] /Next 36 0 R /Parent 29 0 R /Prev 34 0 R /Title (User info: /userinfo) >>
+<< /Dest [ 17 0 R /XYZ 62.69291 408.8236 0 ] /Next 36 0 R /Parent 29 0 R /Prev 34 0 R /Title (User info: /userinfo) >>
 endobj
 36 0 obj
 << /Dest [ 18 0 R /XYZ 62.69291 765.0236 0 ] /Parent 29 0 R /Prev 35 0 R /Title (Provider configuration: /.well-known/openid-configuration) >>
 endobj
 37 0 obj
-<< /Count 7 /Kids [ 10 0 R 15 0 R 17 0 R 18 0 R 19 0 R 20 0 R 21 0 R ] /Type /Pages >>
+<< /Count 7 /Kids [ 10 0 R 16 0 R 17 0 R 18 0 R 19 0 R 20 0 R 21 0 R ] /Type /Pages >>
 endobj
 38 0 obj
 << /Length 5221 >>
@@ -427,7 +427,7 @@ Q
 endstream
 endobj
 39 0 obj
-<< /Length 3107 >>
+<< /Length 3056 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -520,102 +520,7 @@ q
 1 0 0 1 62.69291 330.409 cm
 Q
 q
-1 0 0 1 62.69291 300.409 cm
-q
-BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Token introspection: /introspect) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 282.409 cm
-Q
-q
-1 0 0 1 62.69291 211.409 cm
-.960784 .960784 .862745 rg
-n 0 71 469.8898 -71 re f*
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-BT 1 0 0 1 6 45 Tm  T* ET
-q
-1 0 0 1 16 40 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2.5 Tm /F3 12.5 Tf 15 TL (Warning) Tj T* ET
-Q
-Q
-q
-1 0 0 1 16 16 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (This request made anonymously.) Tj T* ET
-Q
-Q
-q
-1 J
-1 j
-.662745 .662745 .662745 RG
-.5 w
-n 0 71 m 469.8898 71 l S
-n 0 0 m 469.8898 0 l S
-n 0 0 m 0 71 l S
-n 469.8898 0 m 469.8898 71 l S
-Q
-Q
-q
-1 0 0 1 62.69291 205.409 cm
-Q
-q
-1 0 0 1 62.69291 175.409 cm
-q
-BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Token revocation: /revoke) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 157.409 cm
-Q
-q
-1 0 0 1 62.69291 86.40902 cm
-.960784 .960784 .862745 rg
-n 0 71 469.8898 -71 re f*
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-BT 1 0 0 1 6 45 Tm  T* ET
-q
-1 0 0 1 16 40 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2.5 Tm /F3 12.5 Tf 15 TL (Warning) Tj T* ET
-Q
-Q
-q
-1 0 0 1 16 16 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (This request made anonymously.) Tj T* ET
-Q
-Q
-q
-1 J
-1 j
-.662745 .662745 .662745 RG
-.5 w
-n 0 71 m 469.8898 71 l S
-n 0 0 m 469.8898 0 l S
-n 0 0 m 0 71 l S
-n 469.8898 0 m 469.8898 71 l S
-Q
-Q
-q
-1 0 0 1 62.69291 80.40902 cm
-Q
- 
-endstream
-endobj
-40 0 obj
-<< /Length 2682 >>
-stream
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-q
-1 0 0 1 62.69291 655.8236 cm
+1 0 0 1 62.69291 213.209 cm
 q
 q
 1 0 0 1 0 0 cm
@@ -625,24 +530,119 @@ q
 .662745 .662745 .662745 RG
 .5 w
 .960784 .960784 .862745 rg
-n -6 -6 492 108 re B*
+n -6 -6 486 108 re B*
 Q
 q
 0 0 0 rg
-BT 1 0 0 1 0 86 Tm /F4 10 Tf 12 TL ($ curl https://llw.aclark.net/userinfo | jq) Tj T* (  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current) Tj T* (                                 Dload  Upload   Total   Spent    Left  Speed) Tj T* (100   102    0   102    0     0    200      0 --:--:-- --:--:-- --:--:--   200) Tj T* ({) Tj T* (  "error": "unauthorized",) Tj T* (  "error_description": "Full authentication is required to access this resource") Tj T* (}) Tj T* ET
+BT 1 0 0 1 0 86 Tm /F4 10 Tf 12 TL (curl https://llw.aclark.net/token | jq) Tj T* (  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current) Tj T* (                                 Dload  Upload   Total   Spent    Left  Speed) Tj T* (100    71    0    71    0     0    106      0 --:--:-- --:--:-- --:--:--   106) Tj T* ({) Tj T* (  "error": "invalid_client",) Tj T* (  "error_description": "Bad client credentials") Tj T* (}) Tj T* ET
 Q
 Q
 Q
 Q
 Q
 q
-1 0 0 1 62.69291 625.8236 cm
+1 0 0 1 62.69291 183.209 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Token introspection: /introspect) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 165.209 cm
+Q
+q
+1 0 0 1 62.69291 94.20902 cm
+.960784 .960784 .862745 rg
+n 0 71 469.8898 -71 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 6 45 Tm  T* ET
+q
+1 0 0 1 16 40 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F3 12.5 Tf 15 TL (Warning) Tj T* ET
+Q
+Q
+q
+1 0 0 1 16 16 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (This request made anonymously.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.662745 .662745 .662745 RG
+.5 w
+n 0 71 m 469.8898 71 l S
+n 0 0 m 469.8898 0 l S
+n 0 0 m 0 71 l S
+n 469.8898 0 m 469.8898 71 l S
+Q
+Q
+q
+1 0 0 1 62.69291 88.20902 cm
+Q
+ 
+endstream
+endobj
+40 0 obj
+<< /Length 3393 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 747.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Token revocation: /revoke) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 729.0236 cm
+Q
+q
+1 0 0 1 62.69291 658.0236 cm
+.960784 .960784 .862745 rg
+n 0 71 469.8898 -71 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 6 45 Tm  T* ET
+q
+1 0 0 1 16 40 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F3 12.5 Tf 15 TL (Warning) Tj T* ET
+Q
+Q
+q
+1 0 0 1 16 16 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (This request made anonymously.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.662745 .662745 .662745 RG
+.5 w
+n 0 71 m 469.8898 71 l S
+n 0 0 m 469.8898 0 l S
+n 0 0 m 0 71 l S
+n 469.8898 0 m 469.8898 71 l S
+Q
+Q
+q
+1 0 0 1 62.69291 652.0236 cm
+Q
+q
+1 0 0 1 62.69291 622.0236 cm
 q
 BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (JSON Web Key Set \(public key\): /jwk) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 424.6236 cm
+1 0 0 1 62.69291 420.8236 cm
 q
 q
 1 0 0 1 0 0 cm
@@ -663,16 +663,16 @@ Q
 Q
 Q
 q
-1 0 0 1 62.69291 394.6236 cm
+1 0 0 1 62.69291 390.8236 cm
 q
 BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (User info: /userinfo) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 376.6236 cm
+1 0 0 1 62.69291 372.8236 cm
 Q
 q
-1 0 0 1 62.69291 305.6236 cm
+1 0 0 1 62.69291 301.8236 cm
 .960784 .960784 .862745 rg
 n 0 71 469.8898 -71 re f*
 0 0 0 rg
@@ -704,7 +704,28 @@ n 469.8898 0 m 469.8898 71 l S
 Q
 Q
 q
-1 0 0 1 62.69291 299.6236 cm
+1 0 0 1 62.69291 295.8236 cm
+Q
+q
+1 0 0 1 62.69291 178.6236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 492 108 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 86 Tm /F4 10 Tf 12 TL ($ curl https://llw.aclark.net/userinfo | jq) Tj T* (  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current) Tj T* (                                 Dload  Upload   Total   Spent    Left  Speed) Tj T* (100   102    0   102    0     0    200      0 --:--:-- --:--:-- --:--:--   200) Tj T* ({) Tj T* (  "error": "unauthorized",) Tj T* (  "error_description": "Full authentication is required to access this resource") Tj T* (}) Tj T* ET
+Q
+Q
+Q
+Q
 Q
  
 endstream
@@ -870,7 +891,7 @@ xref
 0000475955 00000 n
 0000476695 00000 n
 0000476818 00000 n
-0000477111 00000 n
+0000476927 00000 n
 0000477220 00000 n
 0000477430 00000 n
 0000477640 00000 n
@@ -888,30 +909,30 @@ xref
 0000479534 00000 n
 0000479673 00000 n
 0000479822 00000 n
-0000479964 00000 n
-0000480119 00000 n
-0000480257 00000 n
-0000480419 00000 n
-0000480525 00000 n
-0000485803 00000 n
-0000488967 00000 n
-0000491706 00000 n
-0000494072 00000 n
-0000495933 00000 n
-0000497930 00000 n
-0000498630 00000 n
-0000498732 00000 n
-0000498769 00000 n
-0000498806 00000 n
-0000498843 00000 n
-0000498880 00000 n
-0000498917 00000 n
-0000498954 00000 n
+0000479965 00000 n
+0000480120 00000 n
+0000480258 00000 n
+0000480420 00000 n
+0000480526 00000 n
+0000485804 00000 n
+0000488917 00000 n
+0000492367 00000 n
+0000494733 00000 n
+0000496594 00000 n
+0000498591 00000 n
+0000499291 00000 n
+0000499393 00000 n
+0000499430 00000 n
+0000499467 00000 n
+0000499504 00000 n
+0000499541 00000 n
+0000499578 00000 n
+0000499615 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com)
- [(\237\005\363h\311bq7u\344\362AZy[\377) (\237\005\363h\311bq7u\344\362AZy[\377)]
+ [(\374\363\023\323r\302pA\220c\225\264\345\037\335H) (\374\363\023\323r\302pA\220c\225\264\345\037\335H)]
  /Info 23 0 R /Root 22 0 R /Size 53 >>
 startxref
-498991
+499652
 %%EOF
