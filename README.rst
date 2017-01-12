@@ -49,14 +49,34 @@ Here we confirm our MITREid-Connect server offers the specified endpoints.
 Authorization endpoint: /authorize
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+**TODO**
+
 Token endpoint: /token
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. Warning:: This request made anonymously.
+
 
 Token introspection: /introspect
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+.. Warning:: This request made anonymously.
+
 Token revocation: /revoke
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. Warning:: This request made anonymously.
+
+::
+
+    $ curl https://llw.aclark.net/userinfo | jq
+      % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                     Dload  Upload   Total   Spent    Left  Speed
+    100   102    0   102    0     0    200      0 --:--:-- --:--:-- --:--:--   200
+    {
+      "error": "unauthorized",
+      "error_description": "Full authentication is required to access this resource"
+    }
 
 JSON Web Key Set (public key): /jwk
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -82,6 +102,8 @@ JSON Web Key Set (public key): /jwk
 
 User info: /userinfo
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. Warning:: This request made anonymously.
 
 Provider configuration: /.well-known/openid-configuration
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
