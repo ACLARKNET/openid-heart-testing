@@ -326,3 +326,7 @@ Provider configuration: /.well-known/openid-configuration
       ]
     }
     
+Todo
+----
+
+- Support authentication
