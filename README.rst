@@ -329,5 +329,6 @@ Provider configuration: /.well-known/openid-configuration
 Todo
 ----
 
+- Add more documentation.
 - Support authentication.
 - Test use cases.
